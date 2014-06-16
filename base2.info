@@ -1,0 +1,20 @@
+name = Base2 Core
+description = The Core module of the Base2 Platform
+package = Base2 Platform
+core = 7.x
+
+; ========================
+; Dependencies
+; ========================
+
+; Core module dependencies
+
+; Contrib module dependencies
+dependencies[] = ckeditor
+dependencies[] = navbar
+
+; Field module dependencies
+
+: ========================
+; Module files
+; ========================
